@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- 照片边框 - 红色 -->
+    <path
+        android:fillColor="#E53935"
+        android:pathData="M3,3h18v18H3z"/>
+    <!-- 天空 - 天蓝 -->
+    <path
+        android:fillColor="#64B5F6"
+        android:pathData="M3,3h18v12H3z"/>
+    <!-- 太阳 - 黄色 -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M15.5,6.5a2,2 0 1,0 0,4 2,2 0 1,0 0,-4z"/>
+    <!-- 山 - 绿色 -->
+    <path
+        android:fillColor="#66BB6A"
+        android:pathData="M3,15l5,-4l3,2l4,-3l6,5V15H3z"/>
+    <!-- 地面 - 棕色 -->
+    <path
+        android:fillColor="#A1887F"
+        android:pathData="M3,15h18v6H3z"/>
+</vector>
